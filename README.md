@@ -9,7 +9,7 @@
 ### Os notebooks foram divididos em notebooks de Análise (um para cada base de dados), Formata dataframes (concatena os dataframes) e Baseline Keras (roda a rede neural).
 
 ### Os notebooks de Análise possuem o seguinte conteúdo:
-1 - Importa dados dos Termos de Guardas (itenstg.csv)  
+1 - Importa dados do csv  
 2 - Analisa e processa coluna 'ncm'  
 3 - Cria funções auxiliares para o processamento da coluna descrição  
 4 - Analisa e processa coluna 'descricao'  
