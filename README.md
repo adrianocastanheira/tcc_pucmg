@@ -4,7 +4,9 @@
 
 ## Título: CLASSIFICAÇÃO DE NCM COM BASE NA DESCRIÇÃO DE MERCADORIAS SUJEITAS A PENA DE PERDIMENTO    
 
-### Este repositório contém na pasta TCC uma pasta para os notebooks utilizados na coleta, tratamento de dados e na aplicação do modelo de machine Learning e contém também outra pasta com a versão .pdf desses notebooks.
+### Este repositório contém uma pasta chamada TCC onde se encontra o Trabalho de Conclusão de Curso em formato .pdf.
+
+### Este repositório contém também uma pasta chamada Códigos uma pasta para os notebooks utilizados na coleta, tratamento de dados e na aplicação do modelo de machine Learning e contém também outra pasta com a versão .pdf desses notebooks.
 
 ### Os notebooks foram divididos em notebooks de Análise (um para cada base de dados), Formata dataframes (concatena os dataframes) e Baseline Keras (roda a rede neural).
 
